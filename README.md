@@ -1,6 +1,6 @@
 # AVS Development SDK & Template Library
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Programmer-Shivansh/AVS-SDK/blob/main/LICENSE)
 [![Documentation](https://img.shields.io/badge/docs-gitbook-blue.svg)](https://shivanshs-organization-2.gitbook.io/avs-sdk)
 
 ## 📚 Documentation
