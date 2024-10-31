@@ -5,11 +5,11 @@
 
 ## 📚 Documentation
 
-For detailed documentation and implementation guides, please visit our [GitBook Documentation](https://shivanshs-organization-2.gitbook.io/avs-sdk).
+For detailed documentation and implementation guides, please visit my [GitBook Documentation](https://shivanshs-organization-2.gitbook.io/avs-sdk).
 
 ## 🚀 Overview
 
-AVS-SDK (Actively Validated Services) is a comprehensive framework for building and managing decentralized services with built-in validation mechanisms. It provides a robust set of tools and utilities for developing secure, scalable, and efficient blockchain applications.
+AVS-SDK is a comprehensive framework for building and managing decentralized services with built-in validation mechanisms. It provides a robust set of tools and utilities for developing secure, scalable, and efficient blockchain applications.
 
 ## 🏗 Technical Architecture
 
