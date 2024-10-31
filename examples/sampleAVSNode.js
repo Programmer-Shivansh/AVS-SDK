@@ -67,3 +67,7 @@ async function someValidationLogic(data) {
     // Implement your validation logic here
     return { isValid: true, timestamp: Date.now() };
 }
+
+module.exports = {
+    runAdvancedNode
+};

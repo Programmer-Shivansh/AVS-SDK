@@ -48,6 +48,5 @@ async function deployComplexContract() {
 }
 
 module.exports = {
-    runAdvancedNode,
     deployComplexContract
 };
